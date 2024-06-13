@@ -1,7 +1,7 @@
 ## 💙
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaBeech&show_icons=true&theme=tokyonight&bg_color=DEG,000008,000008,001919,000008&border_radius=6"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaBeech&show_icons=true&theme=tokyonight&bg_color=DEG,000008,000008,001919,000008&border_color=30363D&border_radius=6"/>
 </a>
 <!--
 **kaBeech/kaBeech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
