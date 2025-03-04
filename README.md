@@ -10,4 +10,4 @@
 
 ### [Advent of Code Solutions](https://github.com/kaBeech/advent-of-code-solutions)
 
-### [Monads Are Easy!](https://github.com/kaBeech/monads-are-easy)
+### [Monad Notes](https://github.com/kaBeech/monad-notes)
